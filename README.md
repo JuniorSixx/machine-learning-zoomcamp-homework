@@ -8,6 +8,7 @@ Repositório com as resoluções dos homeworks do [ML Zoomcamp 2026](https://cou
 |---|---|---|
 | 01 — Introduction to Machine Learning | [homework.ipynb](01_intro/homework.ipynb) | ✅ |
 | 02 — Machine Learning for Regression | [homework.ipynb](02_regression/homework.ipynb) | ✅ |
+| 03 — Machine Learning for Classification | [homework.ipynb](03_classification/homework.ipynb) | ✅ |
 
 ## Setup
 
